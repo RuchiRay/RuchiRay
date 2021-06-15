@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Ruchi Ray and I am currently persuing engineering at NIT Jalandhar
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuchiRay&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiRay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
