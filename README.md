@@ -22,17 +22,18 @@ Currently pursuing engineering at NIT Jalandhar, I am a front developer who love
 - 🔭 I'm also interested in competetive programming
 - 📫 2021 goal:become an expert React developer
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuchiRay&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiRay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RuchiRay&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Connect with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RuchiRay) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ruchi-ray-a3ab0b1ba//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ruchiray5264//)  
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuchiRay&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiRay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
