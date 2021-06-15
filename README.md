@@ -14,7 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Ruchi Ray and I am currently persuing engineering at NIT Jalandhar
+### My name is Ruchi Ray
+Currently pursuing engineering at NIT Jalandhar, I am a front developer who loves coding beautiful websites.
+
+- 🌱 I’m currently learning React js 
+- 👯 I’m looking to collaborate with other developers 
+- 🔭 I'm also interested in competetive programming
+- 📫 2021 goal:become an expert React developer
+
+### Connect with me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RuchiRay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ruchi-ray-a3ab0b1ba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ruchiray5264//)  
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuchiRay&show_icons=true&theme=tokyonight)
 
