@@ -22,6 +22,7 @@ Currently pursuing engineering at NIT Jalandhar, I am a front developer who love
 - 🔭 I'm also interested in competetive programming
 - 📫 2021 goal:become an expert React developer
 
+[Check out my portfolio](https://ruchiray.netlify.app/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuchiRay&show_icons=true&theme=tokyonight)
 
