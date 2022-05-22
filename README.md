@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ### My name is Ruchi Ray
 Currently pursuing engineering at NIT Jalandhar, I am a front developer who loves coding beautiful websites.
 
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning full stack development js 
 - 👯 I’m looking to collaborate with other developers 
-- 🔭 I'm also interested in competetive programming
-- 📫 2021 goal:become an expert React developer
+- 🔭 I'm also interested in data structures and algorithms
+- 📫 2022 goal:become a full stack developer
 
 [Check out my portfolio](https://ruchiray.netlify.app/)
 
