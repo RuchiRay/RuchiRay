@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### My name is Ruchi Ray
 Currently pursuing engineering at NIT Jalandhar, I am a front developer who loves coding beautiful websites.
 
-- 🌱 I’m currently learning full stack development js 
+- 🌱 I’m currently learning full stack development
 - 👯 I’m looking to collaborate with other developers 
 - 🔭 I'm also interested in data structures and algorithms
 - 📫 2022 goal:become a full stack developer
