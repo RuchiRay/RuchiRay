@@ -28,8 +28,7 @@ Currently pursuing engineering at NIT Jalandhar, I am a front developer who love
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiRay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![A
-shutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RuchiRay&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RuchiRay&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Connect with me
