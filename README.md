@@ -8,12 +8,10 @@
 - 🛠️ My focus is on creating intuitive and user-friendly web experiences, ensuring accessibility and inclusivity for all users.
 - 📫 How to reach me **ruchiray18@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ruchi-ray-a3ab0b1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchi-ray-a3ab0b1ba/" height="30" width="40" /></a>
-<a href="https://instagram.com/ruchiray5264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruchiray5264" height="30" width="40" /></a>
-</p>
 
+## 🌟 Check out My Portfolio
+
+Visit my portfolio to see more of my work and projects: [My Portfolio](https://ruchiray.netlify.app/)
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuchiRay&theme=react)](https://github.com/RuchiRay/github-readme-activity-graph)
@@ -27,3 +25,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchiray&show_icons=true&locale=en" alt="ruchiray" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchiray&" alt="ruchiray" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ruchi-ray-a3ab0b1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchi-ray-a3ab0b1ba/" height="30" width="40" /></a>
+<a href="https://instagram.com/ruchiray5264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruchiray5264" height="30" width="40" /></a>
+</p>
+
