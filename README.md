@@ -25,6 +25,7 @@ Currently pursuing engineering at NIT Jalandhar, I am a front developer who love
 [Check out my portfolio](https://ruchiray.netlify.app/)
 
 <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuchiRay)](https://github.com/anuraghazra/github-readme-stats) --->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuchiRay)](https://github.com/RuchiRay/github-readme-activity-graph)
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiRay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
