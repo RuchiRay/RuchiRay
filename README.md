@@ -12,9 +12,9 @@
 ## 🌟 Check out My Portfolio
 
 Visit my portfolio to see more of my work and projects: [My Portfolio](https://ruchiray.netlify.app/)
-<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<!--- <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>-->
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuchiRay&theme=react)](https://github.com/RuchiRay/github-readme-activity-graph)
+<!--- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuchiRay&theme=react)](https://github.com/RuchiRay/github-readme-activity-graph)-->
 
 
 <h3 align="left">Languages and Tools:</h3>
